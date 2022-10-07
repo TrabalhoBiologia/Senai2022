@@ -10,5 +10,5 @@ app.use(cors());
 app.use(routes);
 
 app.listen(4001, () => {
-    console.log("Respondendo na porta 4001");
+    console.log("Respondendo na porta 3000");
 });
